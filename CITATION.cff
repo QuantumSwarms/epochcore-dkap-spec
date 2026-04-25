@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it as below."
+title: "D-KaP: Decentralized Knowledge as Pixels"
+abstract: "A 12-domain post-quantum-safe knowledge fabric encoding structured knowledge as deterministic, content-addressed pixel tensors anchored on dual-L2 commitment registries."
+authors:
+  - family-names: Ryan
+    given-names: John
+    affiliation: "EpochCore LLC"
+version: 0.1.0
+date-released: 2026-04-24
+repository-code: "https://github.com/QuantumSwarms/epochcore-dkap-spec"
+license: Apache-2.0
+keywords:
+  - quantum
+  - post-quantum cryptography
+  - knowledge fabric
+  - ai-agents
+  - epochcore
